@@ -67,3 +67,7 @@ i {
 .deg {
   color: gray;
 }
+
+.openLink {
+  text-decoration: none;
+}
